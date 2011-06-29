@@ -1,0 +1,15 @@
+If you haven't work on your code reading much, welcome to boot camp. You are in for three weeks of intense work. Reviewing code will be the most important task you'll have as a mentor. It helps your mentees learn to write better code, and acts as a buffer for the instructor, making sure simple design and style problems are mostly weeded out before the students request formal reviews.
+
+Here are a few tips to help you through code reviews. First, clone the students repo and poke around. If they have tests, run them. Fire up IRB and play with their classes and modules. Now that you've got an idea of how their code works open up a blank document, read through their code and brain dump. Things to look at are overall project design, class/module design, method implementations, and style. Once you've brain dumped, you should organize your thoughts into a coherent package. With things listed from the most important to least important. This is a key point. If you simply brain dump, you're not teaching, your telling. By organizing your thoughts into a logical package you are on the road to teaching. Finally, if you're stretched for time, it is much better to provide a deep review on a small portion of a mentees project, than to give them a shallow review of the whole.
+
+## Class/Module Design and Overall Project Design
+
+These are just taking another step back from individual methods and looking at entire classes/modules or the entire project. Should the class/module be refactored? Are they following standard project layout? Is everything in a giant file? These are things that should be pointed out. Again, don't just say, "ugh, everything is in one big file." Explain to them how and why a project is typically laid out.
+
+## Method Implementations
+
+Here is where you should address concerns regarding how a method actually works. Could it be simplified via recursion? Could it be refactored? One of the simplest refactoring is usually extraction. But, don't just say, this method could use some refactoring, or this method is a candidate for extraction. When working with intermediate developers, they might not see it. You need to provide them with an example, or refactor their code for them and present it as a gist. When someone has spent a lot of time working on something, it is often hard for them to step back and see these issues, they need you to pull them out by showing them the forest when they're stuck on the trees.
+
+## Style
+
+Style might be a matter of taste, but there are common things that every Ruby programmer should be doing if they're code is going to be accepted by the community. Simple things, such as lining up "=", "=>", etc. or indenting two spaces and not using tabs. Essentially, go through the style guide (https://github.com/rmu/wiki/wiki/Style-Guide) and point out any problems. It's not usually enough to just point out the style guide, it's much more helpful if you point out some issues first and how to correct them before sending a student to the style guide.
