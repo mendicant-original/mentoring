@@ -1,4 +1,7 @@
-# Welcome to Ruby Mendicant University's mentoring program!
+# Welcome to Mendicant University's mentoring program!
+
+<h2 style="text-align: center; background-color: lightyellow; color: green; padding: 5px;">October is <a href="#">Magnificent Medicant Mentoring Month</a><br><a href="#">Mentoring sessions</a> Oct 1 - 7 to contribute to Ruby MRI documentation</a></h2>
+
 ## If you're looking to sign up for mentoring, this is the place
 
 To sign up for a mentoring session, **[read these instructions first](https://github.com/rmu/mentoring/wiki/Instructions-for-students)**, and make sure that what you need help with meets our criteria.
@@ -9,7 +12,7 @@ Then head on over to the **[Issues log](https://github.com/rmu/mentoring/issues)
 
 Questions?  Try the **[FAQ](https://github.com/rmu/mentoring/wiki/FAQ)** or other pages on the **[wiki](https://github.com/rmu/mentoring/wiki/Home)**. Or ask on the **#rmu irc channel on freenode**, or **[shoot us an email](mailto:rmu.mentoring@gmail.com)**.
 
-## If you're an RMU alumni and want to volunteer
+## If you're an MU alumni and want to volunteer
 
 Contact Greg. You'll need to get permission on the github repo and wiki.
 
