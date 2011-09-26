@@ -1,6 +1,6 @@
 # Welcome to Mendicant University's mentoring program!
 
-<h2><span style="text-align: center; background-color: lightyellow; color: green; padding: 5px;">October is <a href="#">Magnificent Medicant Mentoring Month</a><br><a href="#">Mentoring sessions</a> Oct 1 - 7 to contribute to Ruby MRI documentation</a></span></h2>
+<h3><span style="text-align: center; background-color: lightyellow; color: green; padding: 5px;">October is <a href="#">Magnificent Medicant Mentoring Month</a><br><a href="#">Mentoring sessions</a> Oct 1 - 7 to contribute to Ruby MRI documentation</a></span></h3>
 
 ## If you're looking to sign up for mentoring, this is the place
 
