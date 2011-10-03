@@ -1,6 +1,6 @@
 # Welcome to Mendicant University's mentoring program!
 
-<h2>October is <a href="http://projects.rubymendicant.org">Magnificent Mendicant Mentoring Month</a></h2>
+<h2>October is <a href="http://projects.mendicantuniversity.org">Magnificent Mendicant Mentoring Month</a></h2>
 <a href="https://github.com/rmu/mentoring/wiki/Instructions-for-Doc-Week">**Sign up for mentoring sessions**</a> Oct 1 - 7 to contribute to Ruby MRI documentation</a>
 
 ## If you're looking to sign up for mentoring, this is the place
